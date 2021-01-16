@@ -21,4 +21,4 @@ Meu nome é David Bastos e sou Front-End Developer Júnior. Sou estudante de:
 
 -  ⚡ Experiencia com: HTML, CSS, JavaScript, Bootstrap, nodeJS, ReactJS, VueJS
 
--  📚 Aprendendo atualmente: Javascript Funcional e TypeScript 
+-  📚 Aprendendo atualmente: Javascript Funcional, TypeScript e Data Science.
